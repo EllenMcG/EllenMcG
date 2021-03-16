@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 	<a href="https://github.com/EllenMcG"><img src="https://img.shields.io/github/followers/EllenMcG.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/EllenMellon_88"><img src="https://img.shields.io/twitter/follow/EllenMellon_88?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/ellenmcgrory/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com/citations?user=HBiedZoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations-58-_.svg?style=social&logo=google-scholar"" alt="Citations"></a>
+  <a href="https://scholar.google.com/citations?user=HBiedZoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations--_.svg?style=social&logo=google-scholar"" alt="Citations"></a>
 </p>
